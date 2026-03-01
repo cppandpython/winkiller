@@ -1,17 +1,17 @@
-# 🌟 linkiller
+# 🌟 winkiller
 
 
 ## en
 
 <br>
 
-linkiller — Complete destruction of Linux and possible erasure of the system BIOS/UEFI firmware
+winkiller — Complete destruction of Windows as well as BIOS/UEFI
 
 <br>
 
 ## 🚀 Features
 
-- ✅ SPI-flash, UEFI, BIOS, DEVICE, Linux
+- ✅ BCD, ESP, BIOS, DEVICE, WINDOWS, BSOD
 - 📦 Built-in libraries only
 
 <br>
@@ -20,10 +20,10 @@ linkiller — Complete destruction of Linux and possible erasure of the system B
 
 ```bash
 # Clone repository
-git clone https://github.com/cpythonkiller/linkiller.git
+git clone https://github.com/cpythonkiller/winkiller.git
 
 # Launch
-python linkiller.py
+python winkiller.py
 ```
 
 
@@ -34,13 +34,13 @@ python linkiller.py
 
 <br>
 
-linkiller — Полное уничтожение Linux и возможное стирание прошивки BIOS/UEFI системы
+winkiller — Полное уничтожение Windows и также BIOS/UEFI 
 
 <br>
 
 ## 🚀 Функции
 
-- ✅ SPI-flash, UEFI, BIOS, DEVICE, Linux
+- ✅ BCD, ESP, BIOS, DEVICE, WINDOWS, BSOD
 - 📦 Только встроенные библиотеки
 
 <br>
@@ -49,8 +49,8 @@ linkiller — Полное уничтожение Linux и возможное с
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/cpythonkiller/linkiller.git
+git clone https://github.com/cpythonkiller/winkiller.git
 
 # Запуск
-python linkiller.py
+python winkiller.py
 ```
