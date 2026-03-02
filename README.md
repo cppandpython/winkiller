@@ -11,7 +11,7 @@ winkiller — Complete destruction of Windows as well as BIOS/UEFI
 
 ## 🚀 Features
 
-- ✅ BCD, ESP, BIOS, DEVICE, WINDOWS, BSOD
+- ✅ BCD, ESP, UEFI, BIOS, DEVICE, WINDOWS, BSOD
 - 📦 Built-in libraries only
 
 <br>
@@ -40,7 +40,7 @@ winkiller — Полное уничтожение Windows и также BIOS/UEF
 
 ## 🚀 Функции
 
-- ✅ BCD, ESP, BIOS, DEVICE, WINDOWS, BSOD
+- ✅ BCD, ESP, UEFI, BIOS, DEVICE, WINDOWS, BSOD
 - 📦 Только встроенные библиотеки
 
 <br>
